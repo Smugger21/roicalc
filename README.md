@@ -1,7 +1,7 @@
 ## Forked
 
 ## What is it
-Yet another [Rise Of Industry](https://store.steampowered.com/app/671440/Rise_of_Industry/) calculator. You could add several targets to achieve and this tool will 
+Yet another [Rise Of Industry](https://www.gog.com/game/rise_of_industry) calculator. You could add several targets to achieve and this tool will 
 show buildings needed to get necessary products flow. Also it knows all buildings base costs and such we could 
 get payback period as ratio between total costs and products costs.
 
